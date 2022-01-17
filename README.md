@@ -1,21 +1,22 @@
-Mathematician & Data Scientist & Full Stack Developer (basically, a wizard)
+Maths | Data Engineering | ML | Fullstack Web | Nix
+
+Basically, a wizard
 
 * LinkedIn: [https://www.linkedin.com/in/guillaume-desforges](https://www.linkedin.com/in/guillaume-desforges)
 * GitHub: [https://github.com/GuillaumeDesforges/](https://github.com/GuillaumeDesforges/)
-* Blog: [http://guillaumedesforges.github.io/](http://guillaumedesforges.github.io/)
 
 ~~I'm a freelancer, contact me by email.~~
-Currently not available, busy building a SaaS!
+Currently not available, stay tuned
 
 ## Skills, technologies, opinions
 
 * web applications
   * frontend: React, css-in-js, functional reactive programming, JWT tokens in HTTP only cookies
-  * backend: GraphQL, Java Spring Boot, Python Flask, Express JS for lambdas, Haskell Scotty & morpheus
+  * backend: GraphQL is often better than REST, Python Flask is bad, Express JS with TypeScript is ok, Haskell Scotty & morpheus is awesome, Java Spring Boot exists
 * packaging => Nix: I stopped using anything else
 * data engineering
   * event-based flow with S3 & Lambda
-  * data processing for warehousing should be done like a build system
+  * batch data processing should be a build system, but we don't have the tools to do it (yet?)
 * data science
   * tabular data: pandas, sklearn, catboost
   * images: ConvNet, ResNet
@@ -24,7 +25,7 @@ Currently not available, busy building a SaaS!
 * applications
   * Java
   * TS + electron
-  * C++ + Qt
+  * C++ with Qt
 * other skills
   * functional programming (with Haskell): everyone uses monads without knowing
   * C/Python interoperability
