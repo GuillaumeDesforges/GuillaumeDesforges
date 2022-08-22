@@ -12,18 +12,13 @@ Currently not available, stay tuned
 
 ## Skills, technologies, opinions
 
-### web applications
-* frontend: React, css-in-js, functional reactive programming, JWT tokens in HTTP only cookies
-* backend: GraphQL is often better than REST, Python Flask is bad, Express JS with TypeScript is ok, Haskell Scotty & morpheus is awesome, Java Spring Boot exists
-
-### packaging
-Nix: I stopped using anything else
+I ❤ Nix.
 
 ### data engineering
-* Spark is for "classic" analytics
+* Spark, snowflake, dbt, ... are for "classic" analytics
 * [Ray](https://www.ray.io/) is cool
 * event-driven processing by default, recurrent batch processing when needed 
-* data transformation should be a build system, but we don't have the tools to do it (yet?)
+* data transformation should be a "build system", but we don't have the tools to do it (yet?)
 
 ### data science/ML
 * tabular data: pandas, sklearn, catboost
@@ -34,15 +29,19 @@ Nix: I stopped using anything else
 
 ### software engineering
 * functional programming (Haskell)
-* apply FP ideas to any language
+* apply FP ideas to any language (even to Python)
 * OOP is _bad_
 * OOP is _bad_, really
 * DDD is good
 * testing matters: unit tests, property testing, automated CI
 * 100% automated deployement
-* technological success should be reproducible
+* technological success includes reproducibility
 
-### GUI
+### web applications
+* frontend: React, css-in-js, functional reactive programming, JWT tokens in HTTP only cookies
+* backend: feed data to SPA with GraphQL, make APIs with REST, Python Flask/Express JS are harder to scale, Haskell Scotty & morpheus is awesome, Java Spring Boot exists
+
+### desktop application
 * make a web app by default
 * Java does the job
 * electron is cool but heavy
