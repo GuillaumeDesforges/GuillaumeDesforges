@@ -9,14 +9,23 @@ Employed at [Tweag](https://tweag.io) to build excellent software
 
 ~~I'm a freelancer, contact me by email.~~ Currently not available for freelance.
 
-## Experience
+## Lectures
 
 ### Albert School of Data
 
 #### Sep 2023 - now: Lecturer
-* "Supervised Learning" (16h)
-* "Scraping and data cleaning" (10h)
-* "Handling spatial data" (4h)
+* "Supervised Learning"
+* "Scraping and data cleaning"
+
+### Ecole des Ponts
+
+#### Sep 2022 - now: Lecturer
+* 1-day course and workshop to version control with git
+
+#### Sep 2021 - 2023: Teaching Assistant
+* "Techniques de dévelopment logiciel"
+
+## Experience
 
 ### [Tweag](https://www.tweag.io/), a Modus Create company
 
