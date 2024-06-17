@@ -2,7 +2,7 @@ Maths | Data/ML | Fullstack | Nix/NixOS
 
 "Basically a wizard"
 
-Employed at [Tweag](https://tweag.io) to build software for a data world
+Employed at [Tweag](https://tweag.io) to build excellent software
 
 * LinkedIn: [https://www.linkedin.com/in/guillaume-desforges](https://www.linkedin.com/in/guillaume-desforges)
 * GitHub: [https://github.com/GuillaumeDesforges/](https://github.com/GuillaumeDesforges/)
@@ -20,21 +20,24 @@ Employed at [Tweag](https://tweag.io) to build software for a data world
 
 ### [Tweag](https://www.tweag.io/), a Modus Create company
 
-#### Sep 2023 - now: Senior Data & Software Engineering Consultant
-* integrate ML in a marketing solution
-* custom software integration (dev + ops)
-* leadership: coaching, project management
+* consultancy: requirement gathering, delivery, communication
+* leadership: coaching, project management, group roadmap
 * growth: hiring (interviews), marketing (speaker, blog editor), sales (solution design)
+
+#### Sep 2023 - now: Senior Data & Software Engineering Consultant
+* fullstack web development, embed LLM
+* build foundation of a marketing engine that uses ML
+* build custom ERP integration (DDD, DevOps)
 
 #### Sep 2021 - Sep 2023: Data & Software Engineering Consultant
 * scaffold Python monorepos ([blog post](https://www.tweag.io/blog/2023-04-04-python-monorepo-1/))
-* distributed cloud computing for ML (dataloader backed by ray on Azure AKS)
+* [distributed cloud computing for ML](https://www.tweag.io/blog/2023-04-20-medical-computing-at-scale/) (dataloader backed by ray on Azure AKS)
 * native extension for Spark in Scala ([github:kaiko.ai/spark-dicom](https://github.com/kaiko-ai/spark-dicom))
 * analysis and processing of temporal geospatial data
 * speaker at PyConFr 2023: "Python moderne et fonctionnel pour des logiciels robustes" ([video](https://pyvideo.org/pycon-fr-2023/python-moderne-et-fonctionnel-pour-des-logiciels-robustes.html))
 
 #### May 2020 - Oct 2020: Internship
-* "Arrow"-based effect system to author extendable type-safe workflows ([github:tweag/funflow](https://github.com/tweag/funflow), [blog post](https://www.tweag.io/blog/2021-09-23-funflow2-intro/))
+* "[Arrow](https://www.sciencedirect.com/science/article/pii/S0167642399000234)"-based effect system to author extendable type-safe workflows ([github:tweag/funflow](https://github.com/tweag/funflow), [blog post](https://www.tweag.io/blog/2021-09-23-funflow2-intro/))
 
 ### [Polar Analytics](https://www.polaranalytics.com/)
 
@@ -54,30 +57,32 @@ Employed at [Tweag](https://tweag.io) to build software for a data world
 ## Skills, technologies, opinions
 
 ### data engineering
-* analytics (Hadoop MapReduce, Spark, Modern Data Stack)
+* analytics (Hadoop MapReduce, Spark, Modern Data Stack, superset)
 * cloud data lakehouse (Spark SQL, BigQuery, Snowflake, Athena)
-* parallel computing, distributed computing ([Ray](https://www.ray.io/) is cool)
+* parallel computing, distributed computing
 * data transformation pipelines need similar features than build systems
 
 ### data science/ML
-* you've gotta love a good linear regression (or xgboost)
+* you gotta love a good linear regression (or xgboost)
 * aren't Foundational Models just crushing the field?
 
 ### software engineering
-* functional programming (Haskell, Scala)
-* apply FP ideas to other languages (Python, Rust, Java)
+* static typing is a must
+* type-hinted Python is nice
+* apply FP ideas (Haskell, Scala) to other languages (Python, Rust, Java)
 * Inheritance is _bad_
 * Inheritance is _bad_, really
 * Domain Driven Design (DDD) is good
 * automated testing matters
-* aim for 100% automated deployement
-* technological success includes reproducibility (Nix ❤)
+* aim for 100% automated deployment
+* NixOS is ❤
 
 ### web applications
-* frontend: the Open Web Platform is the most stable, React is nice, experimenting with HTMX
-* backend: REST is good, GraphQL is nice to serve SPA data but it's not so simple to solve N+1 query problem
+* frontend: React is a good default, the Open Web Platform is most stable
+* backend: REST is good, most people mean CRUD by REST, GraphQL is nice but complex, RPC is battle-tested
+* HTMX is worth knowing
 
 ### desktop application & mobile development
-* make a web app unless you have hard requirement on being offline
+* make a web app unless you need it offline
 
 ![GuillaumeDesforges's github stats](https://github-readme-stats.vercel.app/api?username=GuillaumeDesforges&show_icons=true&theme=dark)
