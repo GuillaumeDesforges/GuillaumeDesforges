@@ -57,6 +57,11 @@ Employed at [Tweag](https://tweag.io) to build excellent software
 ### Freelance
 
 #### Jan 2020 - Aug 2020: Fullstack Software Engineer
+* React: scaffold and develop
+* Spring Boot: models, services, controllers, tests 
+
+#### Jan 2013 - Mar 2013: Backend Software Engineer
+* PayPal payment for an online shop
 
 ## Education
 
