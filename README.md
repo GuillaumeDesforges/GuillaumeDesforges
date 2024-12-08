@@ -38,16 +38,16 @@ Don't hesitate to reach out if you want to see the teaching material - if it's n
 
 ### [TamTam](https://tamtam.ai)
 
-* tech: full-stack development
-* product: product analytics
+#### Oct 2024 - now
+* full-stack development of features, from product to frontend, backend, and ops
+* product analytics
 
 ### [Tweag](https://www.tweag.io/), a Modus Create company
-
 * consultancy: requirement gathering, delivery, communication
 * leadership: coaching, project management, group roadmap
 * growth: hiring (interviews), marketing (speaker, blog editor), sales (solution design)
 
-#### Sep 2023 - now: Senior Data & Software Engineering Consultant
+#### Sep 2023 - Oct 2024: Senior Data & Software Engineering Consultant
 * fullstack web development, embed LLM
 * build foundation of a marketing engine that uses ML
 * build custom ERP integration (DDD, DevOps)
