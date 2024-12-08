@@ -2,7 +2,7 @@ Maths | Data/ML | Fullstack | Nix/NixOS
 
 "Basically a wizard"
 
-Employed at [Tweag](https://tweag.io) to build excellent software
+Employed at [Tamtam](https://tamtam.ai) to build excellent software
 
 * LinkedIn: [https://www.linkedin.com/in/guillaume-desforges](https://www.linkedin.com/in/guillaume-desforges)
 * GitHub: [https://github.com/GuillaumeDesforges/](https://github.com/GuillaumeDesforges/)
@@ -10,6 +10,11 @@ Employed at [Tweag](https://tweag.io) to build excellent software
 ~~I'm a freelancer, contact me by email.~~ Currently not available for freelance.
 
 ## Lectures
+
+### ENSTA
+
+#### Jan 2025 - now
+* "Big Data"
 
 ### Albert School of Data
 
