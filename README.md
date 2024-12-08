@@ -8,12 +8,15 @@ Employed at [Tamtam](https://tamtam.ai) to build excellent software
 * GitHub: [https://github.com/GuillaumeDesforges/](https://github.com/GuillaumeDesforges/)
 
 ~~I'm a freelancer, contact me by email.~~ Currently not available for freelance.
-
+  
 ## Lectures
 
 I have taught at French universities the following course.
 
 Don't hesitate to reach out if you want to see the teaching material - if it's not public on GitHub already.
+
+<details>
+<summary>Lectures given</summary>
 
 ### ENSTA
 
@@ -34,6 +37,8 @@ Don't hesitate to reach out if you want to see the teaching material - if it's n
 #### Sep 2021 - 2023: Teaching Assistant
 * "Techniques de dévelopment logiciel"
 
+</details>
+
 ## Experience
 
 ### [TamTam](https://tamtam.ai)
@@ -41,6 +46,10 @@ Don't hesitate to reach out if you want to see the teaching material - if it's n
 #### Oct 2024 - now
 * full-stack development of features, from product to frontend, backend, and ops
 * product analytics
+
+
+<details>
+<summary>Past experiences</summary>
 
 ### [Tweag](https://www.tweag.io/), a Modus Create company
 * consultancy: requirement gathering, delivery, communication
@@ -77,12 +86,17 @@ Don't hesitate to reach out if you want to see the teaching material - if it's n
 #### Jan 2013 - Mar 2013: Backend Software Engineer
 * PayPal payment for an online shop
 
+</details>
+
 ## Education
 
 * 2019-2020: Master "Data and Artificial Intelligence", Institut Polytechnique de Paris
 * 2016-2020: Ingénieur, Ecole des Ponts
 
 ## Skills, technologies, opinions
+
+<details>
+<summary>My boring takes</summary>  
 
 ### data engineering
 * analytics (Hadoop MapReduce, Spark, Modern Data Stack, superset)
@@ -112,5 +126,7 @@ Don't hesitate to reach out if you want to see the teaching material - if it's n
 
 ### desktop application & mobile development
 * make a web app unless you need it offline
+
+</details>
 
 ![GuillaumeDesforges's github stats](https://github-readme-stats.vercel.app/api?username=GuillaumeDesforges&show_icons=true&theme=dark)
