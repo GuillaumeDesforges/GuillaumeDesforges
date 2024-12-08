@@ -11,6 +11,10 @@ Employed at [Tamtam](https://tamtam.ai) to build excellent software
 
 ## Lectures
 
+I have taught at French universities the following course.
+
+Don't hesitate to reach out if you want to see the teaching material - if it's not public on GitHub already.
+
 ### ENSTA
 
 #### Jan 2025 - now
@@ -31,6 +35,11 @@ Employed at [Tamtam](https://tamtam.ai) to build excellent software
 * "Techniques de dévelopment logiciel"
 
 ## Experience
+
+### [TamTam](https://tamtam.ai)
+
+* tech: full-stack development
+* product: product analytics
 
 ### [Tweag](https://www.tweag.io/), a Modus Create company
 
