@@ -4,8 +4,8 @@ Maths | Data/ML | Fullstack | Nix/NixOS
 
 Employed at [Tamtam](https://tamtam.ai) to build excellent software
 
-* LinkedIn: [https://www.linkedin.com/in/guillaume-desforges](https://www.linkedin.com/in/guillaume-desforges)
-* GitHub: [https://github.com/GuillaumeDesforges/](https://github.com/GuillaumeDesforges/)
+* LinkedIn, I write about stuff: [https://www.linkedin.com/in/guillaume-desforges](https://www.linkedin.com/in/guillaume-desforges)
+* GitHub, I make some stuff: [https://github.com/GuillaumeDesforges/](https://github.com/GuillaumeDesforges/)
 
 ~~I'm a freelancer, contact me by email.~~ Currently not available for freelance.
   
