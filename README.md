@@ -18,24 +18,39 @@ Don't hesitate to reach out if you want to see the teaching material - if it's n
 <details>
 <summary>Lectures given</summary>
 
+### Ecole des Ponts
+
+#### 2024 - 2025: Lecturer
+* "Python"
+
+#### 2021 - 2022: Teaching Assistant
+* "Techniques de dévelopment logiciel"
+
+#### 2022 - 2023: Teaching Assistant
+* "Techniques de dévelopment logiciel"
+
+#### 2022, 2023, 2024: Lecturer
+* 1-day course and workshop to version control with git
+
 ### ENSTA
 
-#### Jan 2025 - now
+#### 2025 - 2026: Lecturer
+* "Big Data"
+
+#### 2024 - 2025: Lecturer
 * "Big Data"
 
 ### Albert School of Data
 
-#### Sep 2023 - now: Lecturer
-* "Supervised Learning"
+#### 2023 - 2024: Lecturer
+* "Machine Learning: Supervised Learning"
 * "Scraping and data cleaning"
 
-### Ecole des Ponts
+#### 2024 - 2025: Lecturer
+* "Machine Learning: Supervised Learning"
 
-#### Sep 2022 - now: Lecturer
-* 1-day course and workshop to version control with git
-
-#### Sep 2021 - 2023: Teaching Assistant
-* "Techniques de dévelopment logiciel"
+#### 2025 - 2026: Lecturer
+* "Machine Learning: Supervised Learning"
 
 </details>
 
@@ -95,37 +110,35 @@ Don't hesitate to reach out if you want to see the teaching material - if it's n
 
 ## Skills, technologies, opinions
 
-<details>
-<summary>My boring takes</summary>  
+I can do anything most product software companies need.
+<https://martinfowler.com/articles/expert-generalist.html>
 
-### data engineering
+In Data Engineering, I've done more specifically:
 * analytics (Hadoop MapReduce, Spark, Modern Data Stack, superset)
 * cloud data lakehouse (Spark SQL, BigQuery, Snowflake, Athena)
 * parallel computing, distributed computing
 * data transformation pipelines need similar features than build systems
 
-### data science/ML
-* you gotta love a good linear regression (or xgboost)
-* aren't Foundational Models just crushing the field?
+<details>
+<summary>My boring takes</summary>  
 
 ### software engineering
 * static typing is a must
-* type-hinted Python is nice
 * apply FP ideas (Haskell, Scala) to other languages (Python, Rust, Java)
 * Inheritance is _bad_
 * Inheritance is _bad_, really
 * Domain Driven Design (DDD) is good
-* automated testing matters
-* aim for 100% automated deployment
+* automated testing makes you faster
+* aim for 100% automated infra ops
 * NixOS is ❤
 
 ### web applications
 * frontend: React is a good default, the Open Web Platform is most stable
-* backend: REST is good, most people mean CRUD by REST, GraphQL is nice but complex, RPC is battle-tested
-* HTMX is worth knowing
+* backend: most people call JSON-RPC APIs their "REST APIs", GraphQL is not a good place to start
 
 ### desktop application & mobile development
-* make a web app unless you need it offline
+* make a web app
+* if you need native functions, make a progressive web app
 
 </details>
 
