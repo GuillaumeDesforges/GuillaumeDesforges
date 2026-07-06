@@ -2,7 +2,7 @@ Maths | Data/ML | Fullstack | Nix/NixOS
 
 "Basically a wizard"
 
-Employed at [Tamtam](https://tamtam.ai) to build excellent software
+Employed at [Mistral AI](https://mistral.ai/) to build excellent AI solutions
 
 * LinkedIn, I write about stuff: [https://www.linkedin.com/in/guillaume-desforges](https://www.linkedin.com/in/guillaume-desforges)
 * GitHub, I make some stuff: [https://github.com/GuillaumeDesforges/](https://github.com/GuillaumeDesforges/)
@@ -23,14 +23,14 @@ Don't hesitate to reach out if you want to see the teaching material - if it's n
 #### 2024 - 2025: Lecturer
 * "Python"
 
-#### 2021 - 2022: Teaching Assistant
-* "Techniques de dévelopment logiciel"
+#### 2022, 2023, 2024: Lecturer
+* 1-day course and workshop to version control with git
 
 #### 2022 - 2023: Teaching Assistant
 * "Techniques de dévelopment logiciel"
 
-#### 2022, 2023, 2024: Lecturer
-* 1-day course and workshop to version control with git
+#### 2021 - 2022: Teaching Assistant
+* "Techniques de dévelopment logiciel"
 
 ### ENSTA
 
@@ -42,29 +42,33 @@ Don't hesitate to reach out if you want to see the teaching material - if it's n
 
 ### Albert School of Data
 
-#### 2023 - 2024: Lecturer
+#### 2025 - 2026: Lecturer
 * "Machine Learning: Supervised Learning"
-* "Scraping and data cleaning"
 
 #### 2024 - 2025: Lecturer
 * "Machine Learning: Supervised Learning"
 
-#### 2025 - 2026: Lecturer
+#### 2023 - 2024: Lecturer
 * "Machine Learning: Supervised Learning"
+* "Scraping and data cleaning"
 
 </details>
 
 ## Experience
 
-### [TamTam](https://tamtam.ai)
+### [Mistral AI](https://mistral.ai)
 
-#### Oct 2024 - now
-* full-stack development of features, from product to frontend, backend, and ops
-* product analytics
-
+#### Jul 2026 - now
+* apply AI to use cases
 
 <details>
 <summary>Past experiences</summary>
+
+### [TamTam](https://tamtam.ai)
+
+#### Oct 2024 - Jul 2026
+* full-stack development of features, from product to frontend, backend, and ops of AI features
+* product (analytics, ops, ...)
 
 ### [Tweag](https://www.tweag.io/), a Modus Create company
 * consultancy: requirement gathering, delivery, communication
